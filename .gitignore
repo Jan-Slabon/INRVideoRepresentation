@@ -1,0 +1,6 @@
+results/*
+data/image*
+nerf.pyc
+Nerf_*.png
+clipped*
+__pycache__
