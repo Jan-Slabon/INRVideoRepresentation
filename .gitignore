@@ -1,4 +1,5 @@
-results/*
+results/frame*
+results/video*
 data/image*
 nerf.pyc
 Nerf_*.png
