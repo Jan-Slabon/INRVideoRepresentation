@@ -4,4 +4,5 @@ data/image*
 nerf.pyc
 Nerf_*.png
 clipped*
+RGB_sigma*
 __pycache__
